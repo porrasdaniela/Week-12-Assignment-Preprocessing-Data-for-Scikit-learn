@@ -1,5 +1,5 @@
 # IS362 – Week 12 Assignment: Preprocessing Data for Scikit-learn  
-**BY:** Daniela Porras-Lo  
+**BY:** Daniela Porras
 
 ## Overview  
 This notebook is part of the Week 12 assignment for IS362. The goal was to preprocess a dataset to prepare it for future predictive modeling using scikit-learn in Project 4. I used the well-known Mushroom dataset from the UCI Machine Learning Repository, which contains various attributes of mushrooms and whether they are edible or poisonous.
